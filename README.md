@@ -28,4 +28,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 * __Tests in scope:__All the feature of Add Employee module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing 
-* __Tests not in scope:__ 
+* __Tests not in scope:__ compatibility testing on a mobile environment, performance testing, integration with other modules
+
+#### 1.1.5 Risks detected
+* lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
+
