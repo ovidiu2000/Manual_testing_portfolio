@@ -46,7 +46,7 @@ The testing procces will be executed base on the aproved documentation for the "
 * Create an employee entry by introducing data in all the fields and check if the employee is created.
 * Leave mandatory fields empty and check that the employee cannot be created or updated.
 * Check all validation constraints for the fields
-* Check that pictures can be added to the profile when the entry is created. Update the profile with a picture.
+* Check that pictures can be added to the profile when the entry is created. Update the entry with a picture.
 
 
 
