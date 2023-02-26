@@ -4,7 +4,7 @@
 
 
 
-# 1 Testing section
+# 1. Testing section
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the Add Employee module from the OrangeHRM application. 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
@@ -74,7 +74,7 @@ The following elements are needed to be ready before the test execution phase be
 * 2 bugs where found and both have high priority
 -  insereaza test execution chart - 
 
-# 2 SQL section
+# 2. SQL section
 
 
 
