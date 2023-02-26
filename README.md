@@ -1,7 +1,7 @@
 # Manual_testing_portofolio# Functional specifications
 
 
--> enter here the functional specifications created in JIRA
+
 
 
 # 1 Testing section
