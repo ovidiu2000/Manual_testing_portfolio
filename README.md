@@ -48,7 +48,7 @@ The testing procces will be executed base on the aproved documentation for the "
 * Check all validation constraints for the fields
 * Check that pictures can be added to the profile when the entry is created. Update the entry with a picture.
 ## 1.4 Test Design
-![Test Cases](https://user-images.githubusercontent.com/112967142/221334575-76490c69-f20b-45a7-b015-b2afa3f5d7ee.png)
+
 
 
 
