@@ -72,7 +72,9 @@ The following elements are needed to be ready before the test execution phase be
 * The traceability matrix was generated and can be found here: insereaza matrice trasabilitate
 * 18 Test Cases where designed and they where all executed successfully
 * 2 bugs where found and both have high priority
+-  insereaza test execution chart - 
 
+# 2 SQL section
 
 
 
