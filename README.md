@@ -47,7 +47,34 @@ The testing procces will be executed base on the aproved documentation for the "
 * Leave mandatory fields empty and check that the employee cannot be created or updated.
 * Check all validation constraints for the fields
 * Check that pictures can be added to the profile when the entry is created. Update the entry with a picture.
+
 ## 1.4 Test Design
+Zephyr Squad was used to create the Test Cases. After analysing the specifications the following testing tehniques where used: boundary value analysis, experience-based testing.
+
+## 1.5 Test Implementation
+The following elements are needed to be ready before the test execution phase begins:
+* The testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* The test are prioritized
+* The Cycle summary is created created and the test are added to it
+* 
+## 1.6 Test Execution
+* The Test cases are executed based on the created steps.
+- printscreen cazuri de test- 
+* The results are reported in Zephyr Squad and marked as Passed, Failed or Blocked.
+* Bugs are creted when the expected result don't concide with the actual results
+- prints screen bug -
+* Full regression testing is needed after the bugs are fixed.
+
+## 1.7 Test Completion
+* The exit criteria are analised to make sure we can close the Testing proccess.
+* The remaining tasks or bugs are reevaluated so they can be closed successfully
+* The traceability matrix was generated and can be found here: insereaza matrice trasabilitate
+* 18 Test Cases where designed and they where all executed successfully
+* 2 bugs where found and both have high priority
+
+
+
 
 
 
