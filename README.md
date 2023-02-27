@@ -66,6 +66,8 @@ __Test cases__:
 
 ![Test Cases](https://user-images.githubusercontent.com/112967142/221500219-43a8c9e9-9e85-4246-9f8d-07c27a5d037a.png)
 
+The test cases with steps can be viewed here: [Test cases with steps.xlsx](https://github.com/ovidiu2000/Manual_testing_portofolio/files/10838019/Test.cases.with.steps.xlsx)
+
 
 
 
