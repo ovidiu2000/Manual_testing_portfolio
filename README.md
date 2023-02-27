@@ -62,6 +62,7 @@ The testing procces will be executed base on the aproved documentation for the "
 ## 1.4 Test Design
 Zephyr Squad was used to create the Test Cases. After analysing the specifications the following testing tehniques where used: boundary value analysis, experience-based testing.
 __Test cases__:
+
 ![Test Cases](https://user-images.githubusercontent.com/112967142/221499659-4f5ee4f5-1c12-498c-b546-02e399ace9e9.png)
 
 
