@@ -70,7 +70,7 @@ The following elements are needed to be ready before the test execution phase be
 * The exit criteria are analised to make sure we can close the Testing proccess.
 * The remaining tasks or bugs are reevaluated so they can be closed successfully
 * The traceability matrix was generated and can be found here: insereaza matrice trasabilitate
-* 18 Test Cases where designed and they where all executed successfully
+* 17 Test Cases where designed and they where all executed successfully
 * 2 bugs where found and both have high priority
 -  insereaza test execution chart - 
 
