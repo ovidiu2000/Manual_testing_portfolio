@@ -80,10 +80,10 @@ The following elements are needed to be ready before the test execution phase be
 * 
 ## 1.6 Test Execution
 * The Test cases are executed based on the created steps.
-- printscreen cazuri de test- 
+__printscreen cazuri de test__
 * The results are reported in Zephyr Squad and marked as Passed, Failed or Blocked.
 * Bugs are creted when the expected result don't concide with the actual results
-- prints screen bug -
+[Bugs_report.pdf](https://github.com/ovidiu2000/Manual_testing_portofolio/files/10838045/Bugs_report.pdf)
 * Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion
