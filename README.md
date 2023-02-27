@@ -89,7 +89,7 @@ __printscreen cazuri de test__
 ## 1.7 Test Completion
 * The exit criteria are analised to make sure we can close the Testing proccess.
 * The remaining tasks or bugs are reevaluated so they can be closed successfully
-* The traceability matrix was generated and can be found here: insereaza matrice trasabilitate
+* The traceability matrix was generated and can be found here: [Traceability_Matrix.xlsx](https://github.com/ovidiu2000/Manual_testing_portofolio/files/10838583/Traceability_Matrix.xlsx)
 * 17 Test Cases where designed and they where all executed successfully
 * 2 bugs where found and both have high priority
 -  insereaza test execution chart - 
