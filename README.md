@@ -39,8 +39,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 * re-testing and closing all the high-priority defects to execute corresponding Regression Testing successfully
 
 #### 1.1.4 Test scope
-* Tests in scope: all the feature of Add Employee module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing 
-*  Tests not in scope: compatibility testing on a mobile environment, performance testing, integration with other modules
+* __Tests in scope:__ All the feature of Add Employee module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing 
+* __Tests not in scope:__ Compatibility testing on a mobile environment, performance testing, integration with other modules
 
 #### 1.1.5 Risks detected
 * lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
