@@ -92,7 +92,8 @@ __printscreen cazuri de test__
 * The traceability matrix was generated and can be found here: [Traceability_Matrix.xlsx](https://github.com/ovidiu2000/Manual_testing_portofolio/files/10838583/Traceability_Matrix.xlsx)
 * 17 Test Cases where designed and they where all executed successfully
 * 2 bugs where found and both have high priority
--  insereaza test execution chart - 
+![Test executions](https://user-images.githubusercontent.com/112967142/221538890-e7c6b83e-220d-4867-80ef-8e8aff34e014.png)
+
 
 # 2. SQL section
 
