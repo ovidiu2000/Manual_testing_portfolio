@@ -1,5 +1,15 @@
-# Manual_testing_portofolio# Functional specifications
+# QA Manual Testing Project
+The purpose of this project is to use knowledge gained through out the duration of the course and apply them using a live application.
 
+Application under test: https://opensource-demo.orangehrmlive.com/
+
+The project is split in two parts: the testing part and the SQL part.
+Tools used: JIRA, Zephyr Squad,MySQL Workbench.
+
+
+# Functional specifications
+
+Two stories where created in JIRA. They describe a part of the functional specifications for the Add Employee module, for which the final project is performed upon.![image](https://user-images.githubusercontent.com/112967142/221493369-132cfdd0-1ae9-4b3e-9db0-b7a3445bd297.png)
 
 
 
