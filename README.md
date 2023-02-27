@@ -50,7 +50,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ## 1.2 Test Monitoring and Control
 Periodic status reports will be generated to reflect the current status of the testing process. If there is a risk of falling behind control measures are taken.
-( de introdus raport generat in timpul procesului de testare)
 
 ## 1.3 Test Analysis
 The testing procces will be executed base on the aproved documentation for the "Employee List" module and the folowing text condition need to be met:
