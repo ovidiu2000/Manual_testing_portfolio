@@ -64,7 +64,8 @@ Zephyr Squad was used to create the Test Cases. After analysing the specificatio
 
 __Test cases__:
 
-![Test Cases](https://user-images.githubusercontent.com/112967142/221499659-4f5ee4f5-1c12-498c-b546-02e399ace9e9.png)
+![Test Cases](https://user-images.githubusercontent.com/112967142/221500219-43a8c9e9-9e85-4246-9f8d-07c27a5d037a.png)
+
 
 
 
