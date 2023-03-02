@@ -76,7 +76,7 @@ The following elements are needed to be ready before the test execution phase be
 * The testing environment is up and running: https://opensource-demo.orangehrmlive.com/
 * Access to the testing environment is given: Username : Admin | Password : admin123
 * The test are prioritized
-* The Cycle summary is created created and the test are added to it
+* The Cycle summary is created and the test are added to it
 
 ## 1.6 Test Execution
 * The Test cases are executed based on the created steps.
