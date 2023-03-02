@@ -52,7 +52,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 Periodic status reports will be generated to reflect the current status of the testing process. If there is a risk of falling behind control measures are taken.
 
 ## 1.3 Test Analysis
-The testing procces will be executed base on the aproved documentation for the "Employee List" module and the folowing text condition need to be met:
+The testing procces will be executed base on the aproved documentation for the "Employee List" module and the folowing test condition need to be met:
 * Create an employee entry by introducing data only in the mandatory fields and check if the employee is created.
 * Create an employee entry by introducing data in all the fields and check if the employee is created.
 * Leave mandatory fields empty and check that the employee cannot be created or updated.
