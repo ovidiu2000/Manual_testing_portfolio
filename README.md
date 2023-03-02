@@ -77,7 +77,7 @@ The following elements are needed to be ready before the test execution phase be
 * Access to the testing environment is given: Username : Admin | Password : admin123
 * The test are prioritized
 * The Cycle summary is created created and the test are added to it
-* 
+
 ## 1.6 Test Execution
 * The Test cases are executed based on the created steps.
 __"pdf cu pasi de test execution si statusul lor - nu merge exportat in pdf din JIRA, de facut printscreen"__
