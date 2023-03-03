@@ -98,6 +98,7 @@ __"pdf cu pasi de test execution si statusul lor - nu merge exportat in pdf din 
 
 
 # 2. SQL section
+Created a database named 'employee' and a table named 'employee' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [employee.sql.zip](https://github.com/ovidiu2000/Manual_testing_portofolio/files/10878134/employee.sql.zip)
 
 
 
