@@ -43,7 +43,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 * __Tests not in scope:__ Compatibility testing on a mobile environment, performance testing, integration with other modules
 
 #### 1.1.5 Risks detected
-* lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
+* lack of experience of the QA team
+* short deadline of Zephyr Squad trial
+* unavailability of test environment
 
 #### 1.1.6 Evaluating entry criteria
 * the entry criteria are satisfied and the next steps can be taken
