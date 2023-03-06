@@ -49,7 +49,8 @@ Project risks:
 * short deadline of Zephyr Squad trial
 * unavailability of test environment
 * unclear expectation
-Product risks:
+Product risks: 
+* poor performance - there is a risk that the application will not work due to lack of resources
 
 
 
