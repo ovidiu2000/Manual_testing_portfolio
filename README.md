@@ -10,8 +10,9 @@ Tools used: JIRA, Zephyr Squad,MySQL Workbench.
 # Functional specifications
 
 Two stories where created in JIRA. They describe a part of the functional specifications for the Add Employee module, for which the final project is performed upon.
-![PRTF_2](https://user-images.githubusercontent.com/112967142/221494215-bf8860ef-93f1-419f-b57b-8476588eae25.png)
-![PRTF_29](https://user-images.githubusercontent.com/112967142/221494228-da601e16-9a69-424d-b219-777807a41262.png)
+![Screen Shot 2023-03-06 at 21 04 59](https://user-images.githubusercontent.com/112967142/223206317-3ef4c7c5-360f-435e-8716-36aeb93919bc.png)
+![Screen Shot 2023-03-06 at 21 06 08](https://user-images.githubusercontent.com/112967142/223206516-0272b996-b987-4538-bec1-d2205a4aad83.png)
+
 
 
 
