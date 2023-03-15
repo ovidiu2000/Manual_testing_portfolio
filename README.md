@@ -86,7 +86,7 @@ The following elements are needed to be ready before the test execution phase be
 * The Cycle summary is created and the test are added to it
 
 ## 1.6 Test Execution
-* The Test cases are executed based on the created steps [Test cases with steps.xls (https://github.com/ovidiu2000/Manual_testing_portofolio/blob/main/Test%20cases%20with%20steps.xlsx)
+* The Test cases are executed based on the created steps [Test cases with steps.xlsx] (https://github.com/ovidiu2000/Manual_testing_portofolio/blob/main/Test%20cases%20with%20steps.xlsx)
 * The results are reported in Zephyr Squad and marked as Passed, Failed or Blocked.
 * Bugs are creted when the expected result don't concide with the actual results
 [Bugs_report.pdf](https://github.com/ovidiu2000/Manual_testing_portofolio/files/10838045/Bugs_report.pdf)
